@@ -11,4 +11,6 @@ A website that offers fitness training services.
 https://calmwake.github.io/run-buddy/
 
 ## Contribution
-Made with &hearts by Justin
+Made with ❤️ by Justin
+
+### ©️2019 Run Buddy, Inc 
